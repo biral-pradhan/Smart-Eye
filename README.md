@@ -17,3 +17,5 @@ Implementation :
 To Do :
   1) Edge Computaion to avoid Latency
   2) Fine Tuning using Spy Cameras to increase the accuracy.
+  3)local cloud analysis
+  
